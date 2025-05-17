@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\OrderDetailsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\OrderDetailsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\CustomerDashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\CustomerDashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\winformsapp3\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winformsapp3\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\winformsapp3\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winformsapp3\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\winformsapp3\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winformsapp3\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp3\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\winformsapp3\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winformsapp3\\vieworderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\OrderDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\OrderDetailsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\CustomerDashboardForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\CustomerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\CustomerDashboardForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\CustomerDashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\RegisterForm.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-17T06:54:04.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\OrderDetailsForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAArwI4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:01.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Customer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Customer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Customer.cs",
+              "RelativeToolTip": "WinFormsApp3\\Customer.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAQwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:04.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\CustomerDashboardForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\CustomerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\CustomerDashboardForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\CustomerDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-17T06:54:04.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-17T06:54:04.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:04.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Order.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Order.cs",
+              "RelativeToolTip": "WinFormsApp3\\Order.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:04.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\OrderDetailsForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\OrderDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-17T06:54:04.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Admin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Admin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\Admin.cs",
+              "RelativeToolTip": "WinFormsApp3\\Admin.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAArwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:54:04.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\ViewOrderForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\ViewOrderForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\WinFormsApp3\\ViewOrderForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\ViewOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-17T06:54:04.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
